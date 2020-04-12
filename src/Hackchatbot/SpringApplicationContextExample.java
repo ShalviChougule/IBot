@@ -1,6 +1,6 @@
 package Hackchatbot;
-/*import com.devdaily.springtest1.dao.FileEventDao;
-import com.devdaily.springtest1.bean.FileEventType;*/
+import com.devdaily.springtest1.dao.FileEventDao;
+import com.devdaily.springtest1.bean.FileEventType;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class SpringApplicationContextExample {
 	public static void main (String[] args)
